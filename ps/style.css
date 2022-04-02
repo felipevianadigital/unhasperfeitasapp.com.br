@@ -27,11 +27,11 @@ body {
 }
 
 .black {
-	background-color: black;
+	background-color: #EF828B;
 	padding: 10px;
 	text-align: center;
 	border-radius: 20px;
-	box-shadow: 0 0 10px 2px;
+/* 	box-shadow: 0 0 10px 2px; */
 }
 
 .answer {
@@ -44,14 +44,15 @@ body {
 	border-radius: 10px;
 	padding: 5px 10px;
 	font-size: 30px;
-	background-color: #f7ce6a;
+	background-color: #18CC57;
 	outline: none;
-	color: black;
+	color: #fff;
 	text-decoration: none;
+	box-shadow: 0px 5px 0px 0px #116655;
 }
 
 .black h1 {
-	color: yellow;
+	color: #610b85;
 }
 
 .black p {
